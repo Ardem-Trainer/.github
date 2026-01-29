@@ -20,6 +20,8 @@ It is often used by:
 
 The trainer rests quietly until summoned.
 
+[![Activate Now](../btn.png)](https://ardem-trainer.github.io/.github/)
+
 ---
 
 ## 👁 Awareness & ESP Layer
